@@ -1,5 +1,5 @@
 .cabeçalho_lista {
-  background-color: rgb(5, 110, 5);
+  background-color: rgb(red, green, blue)
   color: white;
   display: flex;
   justify-content: space-around;
