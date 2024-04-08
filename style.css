@@ -2,7 +2,7 @@ STYLE.CSS
 
 .cabeçalho_lista {
 background-color: green;
-color: white;
+color: green;
 display: flex;
 justify-content: space-around;
 align-items: center;
